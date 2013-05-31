@@ -35,6 +35,6 @@ Technology
   - jQuery
   - node.js
  - PHP
-  - CakePHP
+  - FuelPHP
  - JSON
  - mySQL
